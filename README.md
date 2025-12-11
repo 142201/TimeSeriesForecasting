@@ -13,7 +13,7 @@ This project focuses on forecasting Netflix (NFLX) daily closing stock prices us
 The model achieved high accuracy with the following metrics:
 * **MAPE (Mean Absolute Percentage Error):** **1.53%** 
 
-![Graph Prediction](<img width="854" height="476" alt="predict netflix" src="https://github.com/user-attachments/assets/4932429d-7611-45e8-bd8a-524e9546f61c" />)
+![Graph Prediction]()
 *(Figure: Comparison between Actual Price vs Predicted Price)*
 
 ## Tech Stack
