@@ -1,7 +1,7 @@
 # Netflix Stock Price Prediction
 
 ## 📌 Overview
-This project focuses on forecasting Netflix (NFLX) daily closing stock prices using advanced Time-Series Analysis. By analyzing historical financial data, the model aims to provide accurate short-term price predictions to aid investment decision-making.
+This project focuses on forecasting Netflix daily closing stock prices using advanced Time-Series Analysis. By analyzing historical financial data, the model aims to provide accurate short-term price predictions to aid investment decision-making.
 
 ## Methodology & Features
 * **Data Preprocessing:** Handled non-stationary data using **Box-Cox Transformation** and **Differencing** (validated via ADF Test).
@@ -22,4 +22,4 @@ The model achieved high accuracy with the following metrics:
 
 * Author,
 * Giani Alifia
-* Linkedin: <www.linkedin.com/in/giani-alifia>
+* Linkedin: www.linkedin.com/in/giani-alifia
