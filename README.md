@@ -13,7 +13,7 @@ This project focuses on forecasting Netflix (NFLX) daily closing stock prices us
 The model achieved high accuracy with the following metrics:
 * **MAPE (Mean Absolute Percentage Error):** **1.53%** 🚀
 
-![Graph Prediction](https://drive.google.com/file/d/1kdhu2vhs7TgS0-9Hs9kgvW7MeGw15FnL/view?usp=sharing)
+![[(https://drive.google.com/file/d/1kdhu2vhs7TgS0-9Hs9kgvW7MeGw15FnL/view?usp=sharing)]
 *(Figure: Comparison between Actual Price vs Predicted Price)*
 
 ## Tech Stack
@@ -23,4 +23,4 @@ The model achieved high accuracy with the following metrics:
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/username/netflix-forecasting.git](https://github.com/username/netflix-forecasting.git)
+   git clone [https://github.com/142201/TimeSeriesForecasting/tree/main]
